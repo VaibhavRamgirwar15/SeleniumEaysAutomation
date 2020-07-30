@@ -48,7 +48,10 @@ public class CheckboxDemo {
 		/*8. close driver instance*/
 		Thread.sleep(10000);
 		driver.close();
-
+		
+		/*For Git mearch practice entering Lines*/
+		System.out.println("This is first line");
+		System.out.println("This is my second line");
 	}
 
 }
